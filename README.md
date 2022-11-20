@@ -1,4 +1,7 @@
 # twitter-time-out
+
+**NOTE: After the change in management, I no longer use Twitter. Feel free to use as a reference, but I will not be maintaining these scripts**
+
 Simple script to temporarily mute Twitter users
 
 I wrote this script for my own personal use, but I am publishing it in case others find it useful. This script comes with no warranty or guarantee. Use at your own risk
